@@ -1,0 +1,1 @@
+I am building a backend agent that outputs JSON instructions, which the frontend will use to draw a UI dynamically.

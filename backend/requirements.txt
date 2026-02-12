@@ -1,0 +1,6 @@
+python-dotenv    # Manage secrets (API Keys) securely
+requests         # Make HTTP calls (How agents "talk" to the web)
+pydantic         # Data validation (Crucial for structured JSON output)
+openai           # (Or anthropic) The LLM provider
+fastapi          # To serve the API to your frontend later
+uvicorn          # The server that runs FastAPI
